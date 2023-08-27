@@ -1,0 +1,9 @@
+Gambiarra.py
+teste.py
+.idea/
+venv/
+.gitattributes
+pythonaulas/.idea/
+pythonaulas/Jogo-da-Forca/
+pythonaulas/Testes/
+pythonaulas/venv/
